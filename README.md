@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`LKDT`** | Linux Kernel Development Toolkit
+# **`LKDT`** | Linux Kernel Development Toolkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
@@ -33,4 +33,4 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/linux-kernel-development-toolkit/graphs/contributors)!
 
-[🔼 Back to top](#lkdt--linux-kernel-development-toolkit)
+[🔼 Back to top](#lkdt--linux-kernel-development-toolkit-)
