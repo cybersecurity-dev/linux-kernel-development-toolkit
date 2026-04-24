@@ -1,4 +1,9 @@
 <div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-linux-kernel-development">
+          <img width="8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+        </a>
+    </p>
 
 # **`LKDT`** | Linux Kernel Development Toolkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
