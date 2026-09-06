@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# **`LKDT`** | Linux Kernel Development Toolkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`LKDT`** | [Linux](https://github.com/cybersecurity-dev/awesome-linux-kernel-development-resources) Kernel [Development](https://github.com/cybersecurity-dev/awesome-linux-kernel-development) Toolkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
@@ -15,7 +15,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
