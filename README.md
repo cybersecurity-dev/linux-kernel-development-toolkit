@@ -21,6 +21,40 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+flowchart TD
+
+    LK[Linux Kernel]
+
+    LK --> CORE[Core Kernel]
+    LK --> MM[Memory Management]
+    LK --> FS[File Systems]
+    LK --> NET[Networking]
+    LK --> DRV[Drivers]
+    LK --> SEC[Security]
+    LK --> VIRT[Virtualization]
+
+    CORE --> SCH[Scheduler]
+    CORE --> PROC[Processes]
+
+    MM --> VM[Virtual Memory]
+    MM --> SLAB[SLAB/SLUB]
+
+    NET --> TCP[TCP/IP]
+    NET --> NF[Netfilter]
+
+    DRV --> PCI[PCI]
+    DRV --> USB[USB]
+    DRV --> GPU[Graphics]
+
+    style LK fill:#434343,stroke:#000000,color:#ffffff
+    style CORE fill:#0b5394,stroke:#073763,color:#ffffff
+    style MM fill:#6aa84f,stroke:#38761d,color:#ffffff
+    style FS fill:#f1c232,stroke:#bf9000,color:#000000
+    style NET fill:#674ea7,stroke:#351c75,color:#ffffff
+    style DRV fill:#990000,stroke:#660000,color:#ffffff
+```
+
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
